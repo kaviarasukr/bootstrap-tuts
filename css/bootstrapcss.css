@@ -1,0 +1,103 @@
+#example1 {
+  background-image: url(polygon.jpg);
+  background-position: right bottom, left top;
+  background-repeat: no repeat;
+
+}
+
+#padding {
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+}
+
+body {
+  position: relative; 
+}
+#section1 {padding-top:50px;height:400px;color: #fff; background-color: #000000;background-image: url("server.jpg");}
+#section2 {padding-top:50px;height:250px;color: #fff; background-color: #FFFFFF;color: black;}
+#section3 {padding-top:50px;height:250px;color: #fff; background-color: #262626;background-image: url("poly.png");}
+#section4 {padding-top:50px;height:650px;color: #fff; background-color: #FFFFFF;}
+#section5 {padding-top:50px;height:250px;color: #fff; background-color: #262626;background-image: url("help.png");}
+#section6 {padding-top:0px;padding:0px;height:400px;color: #fff; background-color: #CBCBCB;}
+#section7 {padding-top:50px;height:250px;color: #fff; background-color: #FFFFFF;}
+#section8 {padding-top:50px;height:250px;color: #fff; background-color: #262626;}
+#section9 {padding-top:50px;height:500px;color: #fff; background-color: #FFFFFF;}
+
+
+.align-css{
+  padding: 20px;
+}
+
+h3{
+  color: black;
+  font-family: 'Arial Black', sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20.8999996185303px;
+}
+p{
+  color: black;
+  font-family: 'Century Gothic';
+  margin: auto;
+    width: 60%;
+}
+.row2{
+  border-bottom: 2px solid black;
+}
+
+#bg{
+    background:url('../img/polygon.jpg') repeat center center;
+    height: 400px;
+    width: 100%
+}
+h3.ex {
+    margin-left: 405px;
+    margin-top: 20px;
+    color: black;
+    font-family: 'Gill Sans MT';
+    font-size: 30px;
+
+}
+#btn2{
+  
+  margin-top: 60px;
+  border: solid white;
+  color: white;
+  background-color: transparent;
+  border-radius: 0;
+
+}
+#btn4{
+  
+  
+  border: solid black;
+  color: black;
+  background-color: transparent;
+  border-radius: 0;
+
+}
+#btn5{
+  
+  margin-top: 60px;
+  border: solid black;
+  color: black;
+  background-color: transparent;
+  border-radius: 0;
+
+}
+#btn7{
+  
+  margin-top: 40px;
+  border: solid black;
+  color: black;
+  background-color: transparent;
+  border-radius: 0;
+
+}
+.glyphicon {
+    font-size: 120px;
+}
