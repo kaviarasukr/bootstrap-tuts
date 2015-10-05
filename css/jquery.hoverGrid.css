@@ -1,0 +1,30 @@
+/*!
+ * jQuery Cookiebar Plugin CSS
+ * https://github.com/carlwoodhouse/jquery.cookieBar
+ *
+ * Copyright 2012, Mark Searle, Carl Woodhouse.
+ */
+ 
+
+
+ .caption {
+	background-color: #4F4F4F;
+	width: 350px;
+    height: 210px;
+	padding: 18px;
+	position:absolute;
+	left:15px;
+	bottom:0px;
+	color: #fff;
+	display:none;
+	line-height:1.1;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.caption p {
+	font-size: 15px;
+	font-weight: 400;
+	color: #fff;
+}

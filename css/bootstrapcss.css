@@ -20,11 +20,12 @@ body {
 #section3 {padding-top:50px;height:250px;color: #fff; background-color: #262626;background-image: url("../images/poly.png");}
 #section4 {padding-top:50px;height:650px;color: #fff; background-color: #FFFFFF;}
 #section5 {padding-top:50px;height:250px;color: #fff; background-color: #262626;background-image: url("../images/help.png");}
-#section6 {padding-top:0px;padding:0px;height:400px;color: #fff; background-color: #CBCBCB;}
+#section6 {padding-top:0px;padding:0px;height:400px;}
 #section7 {padding-top:0px;height:250px;color: #fff; background-color: #FFFFFF;}
 #section8 {padding-top:50px;height:250px;color: #fff; background-color: #262626;}
 #section71 {margin-top:50px;background-color: #FFFFFF; height: inherit;}
 #section72 {margin-top:50px;background-color: #FFFFFF; height: inherit;}
+#section9 {padding-top:50px;height:250px;color: #fff; background-color: #262626;background-image: url("../images/help.png");}
 
 
 .align-css{
